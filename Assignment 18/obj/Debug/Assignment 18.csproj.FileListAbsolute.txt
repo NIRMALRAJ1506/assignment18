@@ -1,0 +1,7 @@
+C:\Mphasis dot net\Day 13\Assignment 18\Assignment 18\bin\Debug\Assignment 18.exe.config
+C:\Mphasis dot net\Day 13\Assignment 18\Assignment 18\bin\Debug\Assignment 18.exe
+C:\Mphasis dot net\Day 13\Assignment 18\Assignment 18\bin\Debug\Assignment 18.pdb
+C:\Mphasis dot net\Day 13\Assignment 18\Assignment 18\obj\Debug\Assignment 18.csproj.AssemblyReference.cache
+C:\Mphasis dot net\Day 13\Assignment 18\Assignment 18\obj\Debug\Assignment 18.csproj.CoreCompileInputs.cache
+C:\Mphasis dot net\Day 13\Assignment 18\Assignment 18\obj\Debug\Assignment 18.exe
+C:\Mphasis dot net\Day 13\Assignment 18\Assignment 18\obj\Debug\Assignment 18.pdb
